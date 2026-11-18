@@ -1,4 +1,3 @@
-
 ---
 name: code-review
 description: Review Python code for bugs, security vulnerabilities, performance problems, and maintainability.
@@ -14,8 +13,6 @@ Review submitted code for:
 4. Code duplication.
 5. Poor exception handling.
 6. Maintainability issues.
-
-Do not assume code is correct simply because it runs.
 
 ## Output format
 
